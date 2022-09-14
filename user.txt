@@ -1,0 +1,480 @@
+Tan Fu Zhen
+78
+431015083883
+0162819337
+fuzhen@gmail.com
+No.2, Eco Fest 3,
+43890
+Kuala Lumpur
+tan123
+-
+-
+-
+-
+-
+-
+yes
+Medical Personnel
+3, High
+confirm
+K43890
+PPV UM
+21/11/2021
+12.00p.m.
+AZ
+Browny
+61
+601010089980
+01129387169
+browny@gmail.com
+No.9, Block C, Bandar Utama Cheras,
+44300
+Selangor
+browny123
+-
+-
+-
+-
+-
+-
+yes
+Retiree
+2, High
+yes
+K43258
+PPV Cheras
+20/11/2021
+2.00p.m.
+Sinovac
+Porter
+18
+030201101234
+0112345678
+porter@gmail.com
+No.1, Street Flower,
+44300
+Selangor
+porter123
+yes
+yes
+yes
+no
+no
+no
+yes
+Others, High
+2, High
+confirm
+S44300
+PPV Batang Kali
+21/11/2021
+12.00p.m.
+Sinovac
+Ravivarman
+73
+481109108239
+01123912307
+ravi@gmail.com
+No.12, Bottom Genting,
+48271
+Melaka
+ravi123
+-
+-
+-
+-
+-
+-
+no
+Retiree
+1, High
+yes
+M48271
+PPV Beruang
+20/11/2021
+10.00a.m.
+AZ
+Lee Jian Ming
+50
+710831102684
+0127182732
+jianming@gmail.com
+No.21, Jalan Mahagoni,
+45336
+Johor
+lee123
+-
+-
+-
+-
+-
+-
+no
+Government Functionary
+1, High
+yes
+J45336
+PPV Bekok
+22/11/2021
+2.00p.m.
+Pfizer
+Harry
+43
+781023102928
+01128273918
+harry@gmail.com
+No.12, Block C, Taman Utama,
+44251
+Selangor
+harry123
+no
+no
+yes
+no
+yes
+yes
+no
+Government Functionary
+1, High
+yes
+S44251
+PPV Bukit Beruntung
+20/11/2021
+11.00a.m.
+Pfizer
+Muhammad
+33
+880730146382
+019238372
+muhammad@gmail.com
+No.22, Block B, Taman Eco,
+44251
+Selangor
+muh123
+no
+no
+no
+no
+no
+no
+yes
+Others, Low
+1, High
+yes
+S44251
+PPV Bukit Beruntung
+20/11/2021
+11.00a.m.
+Pfizer
+Curry
+19
+021219089964
+0119282732
+curry@gmail.com
+No.9, Taman Bunga,
+43890
+Kuala Lumpur
+curry123
+-
+-
+-
+-
+-
+-
+yes
+Others, Low
+1, High
+confirm
+K43890
+PPV UM
+21/11/2021
+12.00p.m.
+AZ
+Afiezar
+18
+031226109282
+0119220121
+afiezar@gmail.com
+No.25, Jalan Botel,
+48271
+Melaka
+afiezar123
+-
+-
+-
+-
+-
+-
+yes
+Student
+1, High
+yes
+M48271
+PPV Beruang
+20/11/2021
+10.00a.m.
+AZ
+Mary
+59
+620804105525
+012923108
+mary@gmail.com
+No.12, Jalan Jati Utama 2,
+44300
+Selangor
+mary123
+-
+-
+-
+-
+-
+-
+no
+Retiree
+0, Low
+yes
+S44300
+PPV Batang Kali
+21/11/2021
+12.00p.m.
+Sinovac
+James Wiseman
+55
+660402142537
+0111029392
+james@gmail.com
+No.12, Street Mousa,
+44300
+Selangor
+james123
+-
+-
+-
+-
+-
+-
+no
+Others, Low
+0, Low
+yes
+S44300
+PPV Batang Kali
+21/11/2021
+12.00p.m.
+Sinovac
+Roshan
+40
+810914107294
+0192138193
+roshan@gmail.com
+No.9, Street Fingy,
+43890
+Kuala Lumpur
+roshan123
+-
+-
+-
+-
+-
+-
+no
+Others, Low
+0, Low
+yes
+K43890
+PPV UM
+21/11/2021
+12.00p.m.
+AZ
+Muhammad Najman
+39
+820404101819
+0112109321
+najman@gmail.com
+No.6, Tamu Hill Fasa 2,
+44300
+Selangor
+najman123
+-
+-
+-
+-
+-
+-
+no
+Others, Low
+0, Low
+yes
+S44300
+PPV Batang Kali
+21/11/2021
+12.00p.m.
+Sinovac
+Peter
+21
+000111140987
+0161238917
+peter@gmail.com
+No.11, Street Teria,
+48271
+Melaka
+peter123
+-
+-
+-
+-
+-
+-
+no
+Student
+0, Low
+yes
+M48271
+PPV Beruang
+20/11/2021
+10.00a.m.
+AZ
+Nur Aisya
+16
+051118109238
+0192139311
+aisya@gmail.com
+No.1, Taman Merah 2,
+43258
+Kuala Lumpur
+aisya123
+-
+-
+-
+-
+-
+-
+no
+Student
+0, Low
+no
+-
+-
+-
+-
+-
+Stephen Kuminga
+53
+680314140527
+019213081
+stephen@gmail.com
+No.21, Bandar Utama 3,
+43258
+Kuala Lumpur
+stephen123
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Ng Zi Fang
+47
+740918107724
+0192819281
+zifang@gmail.com
+No.23, Tamu Highland,
+43890
+Kuala Lumpur
+ng123
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Chong Xiao Ze
+36
+850610147981
+01123091312
+xiaoze@gmail.com
+No.12, Street Funxy,
+45336
+Johor
+chong123
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Damian Lee
+26
+950327103356
+01129331093
+damionlee@gmail.com
+No.11, Garden Round 2,
+45336
+Johor
+damianlee123
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Mosses
+19
+021208141290
+0112130818
+mosses@gmail.com
+No.21, Street Greny,
+44251
+Selangor
+mosses123
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-

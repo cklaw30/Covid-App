@@ -1,0 +1,36 @@
+J45336
+PPV Bekok
+22/11/2021
+2.00p.m.
+Pfizer
+1
+K43258
+PPV Cheras
+20/11/2021
+2.00p.m.
+Sinovac
+1
+K43890
+PPV UM
+21/11/2021
+12.00p.m.
+AZ
+3
+M48271
+PPV Beruang
+20/11/2021
+10.00a.m.
+AZ
+3
+S44251
+PPV Bukit Beruntung
+20/11/2021
+11.00a.m.
+Pfizer
+2
+S44300
+PPV Batang Kali
+21/11/2021
+12.00p.m.
+Sinovac
+4
